@@ -331,5 +331,29 @@
 			"MS-SQL",
 			"Azure"
     ]
+  },
+	{
+    "id": "saskpower",
+    "name": "SaskPower",
+    "website": "https://www.saskpower.com",
+    "address": "2025 Victoria Ave.\nRegina, SK\nS4P 0S1",
+    "lat": 50.4471023,
+    "lng": -104.6100875,
+    "technology": [
+			".NET",
+			"C#",
+			"JavaScript",
+			"AWS",
+			"JQuery",
+			"Kendo Grid",
+			"Azure",
+      "HTML",
+      "iOS",
+      "Android",
+      "Swift",
+      "CSS",
+      "SQL Server",
+      "SAP"
+    ]
   }
 ]
